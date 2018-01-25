@@ -128,12 +128,14 @@
     <ClCompile Include="Game_Object.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="myCore.cpp" />
+    <ClCompile Include="Physics.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cool_Setup.h" />
     <ClInclude Include="coreHeader.h" />
     <ClInclude Include="GameObject.h" />
     <ClInclude Include="Main.h" />
+    <ClInclude Include="Physics.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,3 +1,5 @@
 ﻿  Main.cpp
-     Creating library D:\SDL\SDLCoolGame\Debug\SDLCoolGame.lib and object D:\SDL\SDLCoolGame\Debug\SDLCoolGame.exp
+d:\sdl\sdlcoolgame\sdlcoolgame\main.cpp(93): warning C4018: '<': signed/unsigned mismatch
+d:\sdl\sdlcoolgame\sdlcoolgame\main.cpp(102): warning C4018: '<': signed/unsigned mismatch
+d:\sdl\sdlcoolgame\sdlcoolgame\main.cpp(111): warning C4018: '<': signed/unsigned mismatch
   SDLCoolGame.vcxproj -> D:\SDL\SDLCoolGame\Debug\SDLCoolGame.exe
